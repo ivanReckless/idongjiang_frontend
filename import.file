@@ -1,0 +1,7 @@
+import NavbarDefault from "../../examples/navbars/NavbarDefault.vue";
+import DefaultFooter from "../../examples/footers/FooterDefault.vue";
+import HeaderCarousel from "./Components/HeaderCarousel.vue";
+import PresentationCounter from "./Sections/PresentationCounter.vue";
+import PresentationPages from "./Sections/PresentationPages.vue";
+import PresentationExample from "./Sections/PresentationExample.vue";
+import PresentationInformation from "./Sections/PresentationInformation.vue";
